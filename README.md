@@ -1,4 +1,4 @@
-# Olá, eu sou o [Marcos Antônio]! 👋
+# Olá, eu sou o Marcos Antônio! 👋
 
 Cientista de Dados em transição de carreira, unindo pensamento analítico e crítico com ferramentas avançadas de tecnologia. Atualmente focado em resolver problemas de negócio através de Machine Learning e Análise de Dados.
 
