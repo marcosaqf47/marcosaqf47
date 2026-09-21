@@ -22,7 +22,7 @@ I turn messy, real-world datasets into clear business decisions: extracting and 
 **2. Customer Churn Prediction - Telco (Python · Scikit-Learn)**
 - Random Forest model to identify churn risk and support customer retention strategy.
 - Full pipeline: EDA, feature engineering, model selection and evaluation.
-- _[Add your real metrics here, e.g. model accuracy/AUC and the business impact it supported]_
+
 
 ### 🎓 Certifications
 
