@@ -1,35 +1,41 @@
-# Olá, eu sou o Marcos Antônio! 👋
+## Hi, I'm Marcos Antônio 👋
 
-Cientista de Dados em transição de carreira, unindo pensamento analítico e crítico com ferramentas avançadas de tecnologia. Atualmente focado em resolver problemas de negócio através de Machine Learning e Análise de Dados.
+**Data Analyst · Python, SQL & Power BI** — building my path from data analysis to applied data science.
 
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, SQL
-- **Bibliotecas:** Pandas, Scikit-Learn, NumPy, Matplotlib, Seaborn
-- **Ferramentas:** Power BI, Git, GitHub, Google Colab
-- **Cloud:** Conhecimentos em IBM Cloud (via Certificação IBM)
+I turn messy, real-world datasets into clear business decisions: extracting and cleaning data with SQL and Python, then communicating it through interactive dashboards in Power BI. Currently deepening my skills in statistics and machine learning.
 
-### 📈 Meus Principais Projetos
-- **[Previsão de Churn - Telco](https://github.com/marcosaqf47/telco-customer-churn-prediction.git):** Modelo de Random Forest para identificar riscos de evasão de clientes, com foco em impacto financeiro e retenção estratégica.
+### 🛠 Tech Stack
 
-### 🎓 Certificações
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- **Tools:** Power BI (DAX, Power Query), Git, GitHub, Google Colab
+- **Cloud:** IBM Cloud fundamentals (IBM Data Science Professional Certificate)
+
+### 📈 Featured Projects
+
+**1. Olist E-commerce Sales Dashboard (Power BI · SQL · DAX)**
+- End-to-end analysis of ~100k Brazilian e-commerce orders (2016–2018) from the public Olist dataset.
+- 3-page dashboard: business overview, geographic distribution and operational performance.
+- Key insights: revenue is concentrated in the Southeast/South regions; delivery delays vary strongly by state.
+- **Repo:** [dashboard-olist-powerbi](https://github.com/marcosaqf47/dashboard-olist-powerbi) · **Kaggle notebook:** [Python EDA version]([link-do-seu-notebook](https://www.kaggle.com/code/playboyxd/olist-ecommerce-data-analysis))
+
+**2. Customer Churn Prediction - Telco (Python · Scikit-Learn)**
+- Random Forest model to identify churn risk and support customer retention strategy.
+- Full pipeline: EDA, feature engineering, model selection and evaluation.
+- _[Add your real metrics here, e.g. model accuracy/AUC and the business impact it supported]_
+
+### 🎓 Certifications
+
 - **IBM Data Science Professional Certificate** (Coursera)
-- **Cientista de Dados** (Preditiva)
+- **Data Scientist (Preditiva)** — [institution]
 
----
-📫 **Como me encontrar:**
-[LinkedIn](https://www.linkedin.com/in/marcos-ant%C3%B4nio-b0131a429/) | [E-mail](marcosaqf47@gmail.com)
+### 🌍 What I'm looking for
 
-<!--
-**marcosaqf47/marcosaqf47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- First role as a **Junior Data Analyst**, or freelance projects in dashboards, SQL and Python analysis.
+- Building an international career, open to remote and relocation opportunities in the **UK**.
 
-Here are some ideas to get you started:
+### 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [Marcos Antônio](https://www.linkedin.com/in/marcos-ant%C3%B4nio-b0131a429/)
+- **Email:** marcosaqf47@gmail.com
+- **Kaggle:** [your-kaggle-username]([link-do-seu-perfil-kaggle](https://www.kaggle.com/playboyxd))
