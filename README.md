@@ -36,6 +36,6 @@ I turn messy, real-world datasets into clear business decisions: extracting and 
 
 ### 📫 Contact
 
-- **LinkedIn:** [Marcos Antônio](https://www.linkedin.com/in/marcos-ant%C3%B4nio-b0131a429/)
+- **LinkedIn:** [Marcos Antônio](https://www.linkedin.com/in/marcosantonio-dados/)
 - **Email:** marcosaqf47@gmail.com
 - **Kaggle:** [your-kaggle-username]([link-do-seu-perfil-kaggle](https://www.kaggle.com/playboyxd))
