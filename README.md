@@ -38,4 +38,4 @@ I turn messy, real-world datasets into clear business decisions: extracting and 
 
 - **LinkedIn:** [Marcos Antônio](https://www.linkedin.com/in/marcosantonio-dados/)
 - **Email:** marcosaqf47@gmail.com
-- **Kaggle:** [playboyxd]([link-do-seu-perfil-kaggle](https://www.kaggle.com/playboyxd))
+- **Kaggle:** [playboyxd](https://www.kaggle.com/playboyxd)
