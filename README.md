@@ -1,41 +1,45 @@
-## Hi, I'm Marcos Antônio 👋
+# Marcos Antônio | Data Analyst & BI Specialist
 
-**Data Analyst · Python, SQL & Power BI** — building my path from data analysis to applied data science.
+## 👋 About Me
+Data Analyst with expertise in Business Intelligence, Python, and SQL. 
+I transform raw data into actionable insights that drive business decisions.
 
-I turn messy, real-world datasets into clear business decisions: extracting and cleaning data with SQL and Python, then communicating it through interactive dashboards in Power BI. Currently deepening my skills in statistics and machine learning.
+**Currently:** Building portfolio projects | Learning advanced ML techniques  
+**Goal:** Relocate to Ireland as a Data Analyst
 
-### 🛠 Tech Stack
+---
 
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Tools:** Power BI (DAX, Power Query), Git, GitHub, Google Colab
-- **Cloud:** IBM Cloud fundamentals (IBM Data Science Professional Certificate)
+## 🛠️ Tech Stack
+- **BI Tools:** Power BI, Looker Studio
+- **Languages:** Python (Pandas, Scikit-Learn), SQL
+- **Databases:** MySQL, PostgreSQL
+- **Other:** Excel, Git, Jupyter Notebook
 
-### 📈 Featured Projects
+---
 
-**1. Olist E-commerce Sales Dashboard (Power BI · SQL · DAX)**
-- End-to-end analysis of ~100k Brazilian e-commerce orders (2016–2018) from the public Olist dataset.
-- 3-page dashboard: business overview, geographic distribution and operational performance.
-- Key insights: revenue is concentrated in the Southeast/South regions; delivery delays vary strongly by state.
-- **Repo:** [dashboard-olist-powerbi](https://github.com/marcosaqf47/dashboard-olist-powerbi) · **Kaggle notebook:** [Python EDA version]([link-do-seu-notebook](https://www.kaggle.com/code/playboyxd/olist-ecommerce-data-analysis))
+## 📊 Featured Projects
 
-**2. Customer Churn Prediction - Telco (Python · Scikit-Learn)**
-- Random Forest model to identify churn risk and support customer retention strategy.
-- Full pipeline: EDA, feature engineering, model selection and evaluation.
+### 1. [Olist Sales Dashboard](https://github.com/marcosaqf47/dashboard-olist-powerbi)
+E-commerce sales analysis dashboard in Power BI. Analyzed 100k+ transactions to identify revenue patterns and optimization opportunities.
 
+### 2. [Telco Churn Prediction](https://github.com/marcosaqf47/telco-customer-churn-prediction)
+Machine Learning model (Random Forest) to predict customer churn in telecommunications. Achieved 85% accuracy and identified key risk profiles.
 
-### 🎓 Certifications
+---
 
-- **IBM Data Science Professional Certificate** (Coursera)
-- **Data Scientist (Preditiva)** — [institution]
+## 📚 Currently Learning
+- Advanced DAX & Power Query
+- Time Series Forecasting
+- Advanced SQL (Window Functions)
 
-### 🌍 What I'm looking for
+---
 
-- First role as a **Junior Data Analyst**, or freelance projects in dashboards, SQL and Python analysis.
-- Building an international career, open to remote and relocation opportunities in the **UK**.
-
-### 📫 Contact
-
-- **LinkedIn:** [Marcos Antônio](https://www.linkedin.com/in/marcosantonio-dados/)
-- **Email:** marcosaqf47@gmail.com
+## 🌐 Connect With Me
+- **LinkedIn:** [marcosantonio-dados](https://www.linkedin.com/in/marcosantonio-dados/)
 - **Kaggle:** [playboyxd](https://www.kaggle.com/playboyxd)
+- **Email:** marcosaqf47@gmail.com
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosaqf47&show_icons=true&theme=dark)
